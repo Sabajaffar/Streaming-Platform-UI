@@ -1,4 +1,4 @@
-# Netflix Pakistan UI Clone 🎬
+Streaming Platform UI
 
 A responsive **Netflix Pakistan landing page clone** built using **HTML, CSS, and JavaScript**.  
 This project focuses on modern UI design, responsiveness across devices, and smooth user interactions inspired by Netflix’s official website.
@@ -38,6 +38,6 @@ This project focuses on modern UI design, responsiveness across devices, and smo
 ---
 ## How to Run
 1. Clone or download this repository.
-2. https://sabajaffar.github.io/Streaming-Platform-UI---Netflix--/
+2. https://sabajaffar.github.io/Streaming-Platform-UI/
 
 
